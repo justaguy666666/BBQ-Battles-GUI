@@ -1,1 +1,2 @@
-print("this is a old/unused loadstring, please dm 8kilos on discord to get updated loadstring or look on YT channel https://www.youtube.com/@x13-m5w")
+local Players = game:GetService("Players")
+Players.LocalPlayer:Kick("This Loadstring is outdated/deleted please dm @8kilos on discord for updated Loadstring")
